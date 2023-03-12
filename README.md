@@ -1,1 +1,0 @@
-# janken-classification-lesson
